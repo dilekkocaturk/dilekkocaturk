@@ -1,13 +1,14 @@
 ### Hi there 👋, I' m Dilek Kocatürk
-I' m currently studying Computer Engineering at Eskişehir Osmangazi University.
+I' m a Computer Engineering student at Eskişehir Osmangazi University.
 
 Skills: C/C++/C#
 
 📫 How to reach me: dilekkocaturrk@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilekkocaturk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dilekkocaturk&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilekkocaturk&theme=tokyonight)
+
 <!--
 **dilekkocaturk/dilekkocaturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
