@@ -5,7 +5,7 @@
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dilekkocaturk.dilekkocaturk)
-[![Github](https://img.shields.io/github/followers/dilekkocaturk?label=Followers&style=social)](https://github.com/dilekkocaturk)
+<!--[![Github](https://img.shields.io/github/followers/dilekkocaturk?label=Followers&style=social)](https://github.com/dilekkocaturk)-->
 
 ## 🎓 I' m a Computer Engineering student at Eskişehir Osmangazi University
 
