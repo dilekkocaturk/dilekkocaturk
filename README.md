@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## Hi there 👋, I'm Dilek Kocatürk
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)-->
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=dilekkocaturk.dilekkocaturk)
+![](https://visitor-badge.laobi.icu/badge?page_id=dilekkocaturk.dilekkocaturk)-->
 <!--[![Github](https://img.shields.io/github/followers/dilekkocaturk?label=Followers&style=social)](https://github.com/dilekkocaturk)-->
 
 ## 🎓 I' m a Computer Engineering student at Eskişehir Osmangazi University
