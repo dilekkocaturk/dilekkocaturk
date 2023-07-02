@@ -9,8 +9,8 @@
 
 ## 🎓 I' m a Computer Engineering student at Eskişehir Osmangazi University
 
-* 🔭 I’m currently working on **Web Based Technologies**
-* 🌱 I’m currently learning **ASP.NET**
+<!--* 🔭 I’m currently working on **Web Based Technologies**
+* 🌱 I’m currently learning **ASP.NET**-->
 
 <!--🔭 I’m currently building my Fiverr Gigs.
 🌱 I’m currently learning Rshiny.
