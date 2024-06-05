@@ -50,8 +50,9 @@
 <a href="https://www.docker.com/"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">  
 <a href="https://www.rabbitmq.com/"> <img src="https://quinngil.com/content/images/2017/04/rabbitmq.svg" alt="RabbitMQ" height="40" style="vertical-align:top; margin:4px"> 
 <a href="https://restfulapi.net/"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="RestAPI" height="40" style="vertical-align:top; margin:4px"> 
+<a href="https://www.linux.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px"> 
 <a href="https://learn.microsoft.com/tr-tr/aspnet/overview"> <img src="https://miro.medium.com/v2/resize:fit:2000/1*oc0z3w_7TKgE0oSyiqpnRw.png" alt="ASP.NET" height="40" style="vertical-align:top; margin:4px"> 
- <a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0"> <img src="https://i0.wp.com/thecodeblogger.com/wp-content/uploads/2019/03/netcore-268-268.png?fit=268%2C266&ssl=1" alt="ASP.NET Core" height="40" style="vertical-align:top; margin:4px"> 
+<a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0"> <img src="https://i0.wp.com/thecodeblogger.com/wp-content/uploads/2019/03/netcore-268-268.png?fit=268%2C266&ssl=1" alt="ASP.NET Core" height="40" style="vertical-align:top; margin:4px"> 
 <!--
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
