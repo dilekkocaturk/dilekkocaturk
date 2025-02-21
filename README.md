@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## Hi 👋, I'm Dilek
+<!--## Hi 👋, I'm Dilek-->
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
@@ -19,16 +19,18 @@
 💬 Ask me about anything
 🤖 I am a PyData Mentor. How may AI help you?-->
 
-## ✉️ Find me on:
+<!--## ✉️ Find me on:-->
+## Find me on:
 
-<p align="center">
+<p>
  <a href="https://linkedin.com/in/dilekkocaturk" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:dilekkocaturrk@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <!--<a href="mailto:dilekkocaturrk@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>-->
 </p>
 
 <br />
 
-## 🧰 Languages and Tools:
+<!--## 🧰 Languages and Tools:-->
+## Languages and Tools:
 <p align="center">
 <a href="https://www.w3schools.com/c/index.php"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.w3schools.com/cpp/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
@@ -37,6 +39,7 @@
 <a href="https://www.w3schools.com/html/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.w3schools.com/js/"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<!--<a href="https://getbootstrap.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">-->
 <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="MsSQL" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.postgresql.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
@@ -52,11 +55,7 @@
 <a href="https://restfulapi.net/"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="RestAPI" height="40" style="vertical-align:top; margin:4px"> 
 <a href="https://www.linux.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px"> 
 <a href="https://learn.microsoft.com/tr-tr/aspnet/overview"> <img src="https://miro.medium.com/v2/resize:fit:2000/1*oc0z3w_7TKgE0oSyiqpnRw.png" alt="ASP.NET" height="40" style="vertical-align:top; margin:4px"> 
-<a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0"> <img src="https://i0.wp.com/thecodeblogger.com/wp-content/uploads/2019/03/netcore-268-268.png?fit=268%2C266&ssl=1" alt="ASP.NET Core" height="40" style="vertical-align:top; margin:4px"> 
-<!--
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
--->  
+<a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0"> <img src="https://i0.wp.com/thecodeblogger.com/wp-content/uploads/2019/03/netcore-268-268.png?fit=268%2C266&ssl=1" alt="ASP.NET Core" height="40" style="vertical-align:top; margin:4px">  
 </p>
  
 <!--https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png         restapi nin image adresi çalışmıyor
